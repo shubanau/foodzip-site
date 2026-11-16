@@ -61,4 +61,4 @@ with a new date.
 
 ## Contact
 
-Questions: **foodzip.app@gmail.com**
+Questions: **support@foodzip.app**
