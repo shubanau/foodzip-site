@@ -12,7 +12,9 @@ explains what happens with information when you use the app.
 
 - FoodZip has **no accounts, no ads, no analytics and no crash-reporting SDKs**.
 - The developer **does not collect, receive, store or sell any personal data**.
-  There is no FoodZip server.
+  There is no FoodZip server. The only thing the developer may see is
+  anonymous crash and usage statistics from Apple or Google, if you allowed
+  it in your device settings (see *Apple and Google*).
 - Your scan history stays **on your device** until you delete it.
 - To look up a product, the app sends **only the barcode number** to Open Food
   Facts.
@@ -70,8 +72,10 @@ It is not sent to the developer.
   items (swipe left) or everything with **Clear** in the app. Uninstalling the
   app deletes it too.
 - **Camera images:** not kept at all.
-- **Email to support:** if you write to us, your message and email address are
-  kept only as long as needed to answer you, and at most 12 months.
+- **Email to support:** if you write to us, we use your email address and
+  message only to answer you (legal basis: our legitimate interest in
+  answering your request, GDPR Art. 6(1)(f)). They are kept only as long as
+  needed to answer you, and at most 12 months.
 - The developer keeps no logs and no other data about you.
 
 ## Apple and Google
